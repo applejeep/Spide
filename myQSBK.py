@@ -63,5 +63,3 @@ if __name__=="__main__":
     raw_input(' ')
     myModel=QSBK()
     myModel.start()
-    #myModel.GetPage(str(1))
-
